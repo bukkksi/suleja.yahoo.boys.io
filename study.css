@@ -1,0 +1,26 @@
+/*Selector{
+	property:value;
+}*/
+
+body{
+	background-image: url(ko.png);
+	background-repeat: repeat-y;
+	background-color: rgb(20, 30, 50, 1.0)
+}
+h2{
+	color: rgba(600, 200, 200, 1.0);
+	text-align: center;
+}
+ul{
+  color: gold;
+  list-style: none;
+  font-family: calibri;
+  font-style: italic;
+}
+h3{
+	text-align: center;
+	color: lightslategrey;
+}
+p{
+	color: lime;
+}

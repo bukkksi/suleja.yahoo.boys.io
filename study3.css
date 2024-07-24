@@ -1,0 +1,23 @@
+/*Selector{
+	property:value;
+}*/
+body{
+	text-align: left;
+	background-image: url(lo.png);
+	background-repeat: repeat;
+	background-color:rgb(20, 30, 50, 1.0) ;
+	color: goldenrod;
+}
+
+.boxmodel{
+	text-align: left;
+	font-family: arial;
+}
+
+.webtext{
+	text-align: center;
+	background-color: rgb(20, 30, 90, 1.0);
+}
+h2{
+  text-align: center;
+}
